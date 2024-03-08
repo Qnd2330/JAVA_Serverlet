@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Admin/eclipse-workspace/OnTap/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2 (1).jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-tribes.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/el-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-storeconfig.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-coyote.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ssi.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-util.jar"/>
+  <path value="C:/Users/Admin/eclipse-workspace/OnTap/src/main/webapp/WEB-INF/lib/sqljdbc4.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ant.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/Admin/eclipse-workspace/OnTap/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c-1_0-rt.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c-1_0.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt-1_0-rt.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt-1_0.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fn.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/permittedtaglibs.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/scriptfree.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql-1_0-rt.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql-1_0.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x-1_0-rt.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x-1_0.tld" project="OnTap"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x.tld" project="OnTap"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/servlet-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-dbcp.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/annotations-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-jni.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-jdbc.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-util-scan.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/websocket-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jasper.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ha.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jaspic-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jasper-el.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jsp-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/ecj-4.20.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="15" name="%0" offset="2234" path="%1"/>
+   <linked-el length="12" name="%0" offset="2250" path="%1"/>
+   <linked-el length="12" name="%0" offset="2140" path="%1"/>
+   <linked-el length="34" name="%0" offset="2054" path="%1"/>
+   <linked-el length="15" name="%0" offset="2116" path="%1"/>
+   <linked-el length="14" name="%0" offset="1665" path="%2"/>
+   <linked-el length="12" name="%0" offset="1680" path="%2"/>
+   <linked-el length="22" name="%3" offset="1054" path="%4"/>
+   <linked-el length="36" name="%3" offset="1314" path="%1"/>
+   <linked-el length="49" name="%5" offset="657" path="%1"/>
+   <linked-el length="51" name="%5" offset="615" path="%6"/>
+   <linked-el length="53" name="%5" offset="484" path="%7"/>
+   <linked-el length="49" name="%5" offset="527" path="%6"/>
+   <linked-el length="51" name="%5" offset="547" path="%2"/>
+   <linked-el length="51" name="%5" offset="682" path="%8"/>
+   <linked-el length="15" name="%9" offset="2234" path="%1"/>
+   <linked-el length="12" name="%9" offset="2250" path="%1"/>
+   <linked-el length="12" name="%9" offset="2140" path="%1"/>
+   <linked-el length="34" name="%9" offset="2054" path="%1"/>
+   <linked-el length="15" name="%9" offset="2116" path="%1"/>
+   <linked-el length="14" name="%9" offset="1665" path="%2"/>
+   <linked-el length="12" name="%9" offset="1680" path="%2"/>
+   <linked-el length="23" name="%10" offset="666" path="%7"/>
+   <linked-el length="23" name="%10" offset="860" path="%8"/>
+   <linked-el length="20" name="%11" offset="786" path="%12"/>
+   <linked-el length="20" name="%11" offset="1240" path="%1"/>
+   <linked-el length="20" name="%11" offset="1122" path="%2"/>
+   <linked-el length="11" name="%13" offset="865" path="%12"/>
+   <linked-el length="13" name="%14" offset="1024" path="%4"/>
+   <linked-el length="14" name="%15" offset="1841" path="%1"/>
+   <linked-el length="11" name="%15" offset="1118" path="%4"/>
+   <linked-el length="14" name="%15" offset="1473" path="%2"/>
+   <linked-el length="49" name="%16" offset="657" path="%1"/>
+   <linked-el length="51" name="%16" offset="615" path="%6"/>
+   <linked-el length="53" name="%16" offset="484" path="%7"/>
+   <linked-el length="49" name="%16" offset="527" path="%6"/>
+   <linked-el length="51" name="%16" offset="547" path="%2"/>
+   <linked-el length="51" name="%16" offset="682" path="%8"/>
+   <linked-el length="11" name="%17" offset="1359" path="%2"/>
+   <linked-el length="11" name="%17" offset="1727" path="%1"/>
+   <linked-el length="8" name="%17" offset="1093" path="%4"/>
+   <linked-el length="22" name="%18" offset="1054" path="%4"/>
+   <linked-el length="36" name="%18" offset="1314" path="%1"/>
+   <linked-el length="18" name="%19" offset="1612" path="%2"/>
+   <linked-el length="18" name="%19" offset="1980" path="%1"/>
+   <linked-el length="18" name="%19" offset="892" path="%4"/>
+   <linked-el length="23" name="%20" offset="797" path="%7"/>
+   <linked-el length="23" name="%20" offset="999" path="%8"/>
+   <linked-el length="13" name="%21" offset="893" path="%12"/>
+   <linked-el length="25" name="%22" offset="624" path="%8"/>
+   <linked-el length="25" name="%22" offset="1264" path="%8"/>
+   <linked-el length="25" name="%22" offset="1062" path="%7"/>
+   <linked-el length="21" name="%22" offset="533" path="%8"/>
+   <linked-el length="23" name="%22" offset="666" path="%7"/>
+   <linked-el length="23" name="%22" offset="797" path="%7"/>
+   <linked-el length="23" name="%22" offset="999" path="%8"/>
+   <linked-el length="23" name="%22" offset="860" path="%8"/>
+   <linked-el length="25" name="%22" offset="929" path="%7"/>
+   <linked-el length="25" name="%22" offset="1131" path="%8"/>
+   <linked-el length="49" name="%23" offset="657" path="%1"/>
+   <linked-el length="51" name="%23" offset="615" path="%6"/>
+   <linked-el length="53" name="%23" offset="484" path="%7"/>
+   <linked-el length="49" name="%23" offset="527" path="%6"/>
+   <linked-el length="51" name="%23" offset="547" path="%2"/>
+   <linked-el length="51" name="%23" offset="682" path="%8"/>
+   <linked-el length="25" name="%24" offset="929" path="%7"/>
+   <linked-el length="25" name="%24" offset="1131" path="%8"/>
+   <linked-el length="11" name="%25" offset="837" path="%12"/>
+   <linked-el length="35" name="%25" offset="994" path="%12"/>
+   <linked-el length="13" name="%25" offset="1175" path="%2"/>
+   <linked-el length="36" name="%25" offset="1314" path="%1"/>
+   <linked-el length="14" name="%25" offset="1378" path="%1"/>
+   <linked-el length="11" name="%25" offset="1509" path="%1"/>
+   <linked-el length="37" name="%25" offset="1078" path="%12"/>
+   <linked-el length="14" name="%25" offset="1494" path="%1"/>
+   <linked-el length="13" name="%25" offset="893" path="%12"/>
+   <linked-el length="11" name="%25" offset="1189" path="%2"/>
+   <linked-el length="11" name="%25" offset="1401" path="%1"/>
+   <linked-el length="13" name="%25" offset="923" path="%12"/>
+   <linked-el length="11" name="%25" offset="865" path="%12"/>
+   <linked-el length="11" name="%26" offset="1359" path="%2"/>
+   <linked-el length="11" name="%26" offset="1727" path="%1"/>
+   <linked-el length="16" name="%26" offset="608" path="%1"/>
+   <linked-el length="10" name="%26" offset="997" path="%4"/>
+   <linked-el length="8" name="%26" offset="1093" path="%4"/>
+   <linked-el length="22" name="%26" offset="1054" path="%4"/>
+   <linked-el length="11" name="%26" offset="1118" path="%4"/>
+   <linked-el length="13" name="%26" offset="1024" path="%4"/>
+   <linked-el length="34" name="%26" offset="2054" path="%1"/>
+   <linked-el length="19" name="%26" offset="1146" path="%4"/>
+   <linked-el length="13" name="%26" offset="839" path="%1"/>
+   <linked-el length="15" name="%26" offset="854" path="%2"/>
+   <linked-el length="13" name="%26" offset="980" path="%2"/>
+   <linked-el length="36" name="%26" offset="1314" path="%1"/>
+   <linked-el length="33" name="%26" offset="1303" path="%4"/>
+   <linked-el length="12" name="%26" offset="528" path="%1"/>
+   <linked-el length="14" name="%26" offset="1841" path="%1"/>
+   <linked-el length="13" name="%26" offset="1098" path="%1"/>
+   <linked-el length="12" name="%26" offset="730" path="%2"/>
+   <linked-el length="15" name="%26" offset="972" path="%1"/>
+   <linked-el length="10" name="%26" offset="941" path="%4"/>
+   <linked-el length="31" name="%26" offset="1223" path="%4"/>
+   <linked-el length="12" name="%26" offset="968" path="%4"/>
+   <linked-el length="14" name="%26" offset="1473" path="%2"/>
+   <linked-el length="12" name="%27" offset="730" path="%2"/>
+   <linked-el length="13" name="%27" offset="839" path="%1"/>
+   <linked-el length="10" name="%27" offset="941" path="%4"/>
+   <linked-el length="31" name="%27" offset="1223" path="%4"/>
+   <linked-el length="33" name="%27" offset="1303" path="%4"/>
+   <linked-el length="15" name="%28" offset="972" path="%1"/>
+   <linked-el length="15" name="%28" offset="854" path="%2"/>
+   <linked-el length="12" name="%28" offset="968" path="%4"/>
+   <linked-el length="14" name="%29" offset="495" path="%1"/>
+   <linked-el length="14" name="%29" offset="499" path="%4"/>
+   <linked-el length="14" name="%29" offset="498" path="%12"/>
+   <linked-el length="14" name="%29" offset="500" path="%8"/>
+   <linked-el length="14" name="%29" offset="435" path="%7"/>
+   <linked-el length="14" name="%29" offset="498" path="%2"/>
+   <linked-el length="14" name="%29" offset="382" path="%30"/>
+   <linked-el length="14" name="%29" offset="384" path="%31"/>
+   <linked-el length="13" name="%32" offset="923" path="%12"/>
+   <linked-el length="10" name="%33" offset="997" path="%4"/>
+   <linked-el length="13" name="%33" offset="1098" path="%1"/>
+   <linked-el length="13" name="%33" offset="980" path="%2"/>
+   <linked-el length="11" name="%34" offset="837" path="%12"/>
+   <linked-el length="35" name="%34" offset="994" path="%12"/>
+   <linked-el length="37" name="%34" offset="1078" path="%12"/>
+   <linked-el length="14" name="%34" offset="1494" path="%1"/>
+   <linked-el length="13" name="%34" offset="1175" path="%2"/>
+   <linked-el length="11" name="%34" offset="1189" path="%2"/>
+   <linked-el length="11" name="%34" offset="1401" path="%1"/>
+   <linked-el length="36" name="%34" offset="1314" path="%1"/>
+   <linked-el length="14" name="%34" offset="1378" path="%1"/>
+   <linked-el length="11" name="%34" offset="1509" path="%1"/>
+   <linked-el length="34" name="%35" offset="2054" path="%1"/>
+   <linked-el length="19" name="%35" offset="1146" path="%4"/>
+   <linked-el length="25" name="%36" offset="1264" path="%8"/>
+   <linked-el length="25" name="%36" offset="1062" path="%7"/>
+   <linked-el length="34" name="%37" offset="2054" path="%1"/>
+   <linked-el length="19" name="%37" offset="1146" path="%4"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/EmployeeCreate.jsp" value="%2"/>
+  <alias path="emp.empId" value="%0"/>
+  <alias path="e.department" value="%3"/>
+  <alias path="pageContext.request" value="%5"/>
+  <alias path="emp" value="%9"/>
+  <alias path="department.deptId" value="%10"/>
+  <alias path="departmentList" value="%11"/>
+  <alias path="d.deptNo" value="%13"/>
+  <alias path="e.hireDate" value="%14"/>
+  <alias path="e.salary" value="%15"/>
+  <alias path="pageContext" value="%16"/>
+  <alias path="e.job" value="%17"/>
+  <alias path="e.department.deptId" value="%18"/>
+  <alias path="employeeList" value="%19"/>
+  <alias path="department.deptNo" value="%20"/>
+  <alias path="d.deptName" value="%21"/>
+  <alias
+   path="/OnTap/src/main/webapp/WEB-INF/views/DepartmentDelete.jsp" value="%31"/>
+  <alias path="department" value="%22"/>
+  <alias path="pageContext.request.contextPath" value="%23"/>
+  <alias path="department.deptName" value="%24"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/_navTop.jsp" value="%6"/>
+  <alias
+   path="/OnTap/src/main/webapp/WEB-INF/views/DepartmentCreate.jsp" value="%7"/>
+  <alias path="d" value="%25"/>
+  <alias path="e" value="%26"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/EmployeeDelete.jsp" value="%30"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/EmployeeList.jsp" value="%4"/>
+  <alias path="e.empId" value="%27"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/DepartmentEdit.jsp" value="%8"/>
+  <alias path="e.empName" value="%28"/>
+  <alias path="errorString" value="%29"/>
+  <alias path="d.location" value="%32"/>
+  <alias path="e.empNo" value="%33"/>
+  <alias path="d.deptId" value="%34"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/EmployeeEdit.jsp" value="%1"/>
+  <alias path="e.employee.empId" value="%35"/>
+  <alias path="/OnTap/src/main/webapp/WEB-INF/views/DepartmentList.jsp" value="%12"/>
+  <alias path="department.location" value="%36"/>
+  <alias path="e.employee" value="%37"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

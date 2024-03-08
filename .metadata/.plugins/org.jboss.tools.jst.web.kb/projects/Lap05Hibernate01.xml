@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/istack-commons-runtime-3.0.7.jar"/>
+  <path value="C:/Users/Admin/eclipse-workspace/Lap05Hibernate01/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c-1_0-rt.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c-1_0.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/c.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt-1_0-rt.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt-1_0.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fmt.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/fn.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/permittedtaglibs.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/scriptfree.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql-1_0-rt.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql-1_0.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/sql.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x-1_0-rt.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x-1_0.tld" project="Lap05Hibernate01"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl-1.2.5.jar/meta-inf/x.tld" project="Lap05Hibernate01"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/classmate-1.5.1.jar"/>
+  <path value="C:/Users/Admin/eclipse-workspace/Lap05Hibernate01/src/main/webapp/WEB-INF/lib/sqljdbc4.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/stax-ex-1.8.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-tribes.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/el-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/hibernate-commons-annotations-5.1.2.Final.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/antlr-2.7.7.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/hibernate-core-5.6.5.Final.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/txw2-2.3.1.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-coyote.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ssi.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-util.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ant.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/servlet-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-dbcp.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/annotations-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-jdbc.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-util-scan.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-api.jar"/>
+  <path value="C:/Users/Admin/eclipse-workspace/Lap05Hibernate01/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2 (1).jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/websocket-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jasper.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/FastInfoset-1.2.15.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/catalina-ha.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/byte-buddy-1.12.7.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/javax.persistence-api-2.2.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jaspic-api.jar"/>
+  <path value="C:/Users/Admin/Dropbox/My PC (DESKTOP-30KTQ88)/Downloads/New folder/hibernate-release-5.6.5.Final/lib/required/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jasper-el.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/jsp-api.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/TomCat/apache-tomcat-9.0.85/lib/ecj-4.20.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>
